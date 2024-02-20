@@ -1,2 +1,7 @@
-# wl hibrid
-wl node.js
+# watchListt ionic
+
+* ionic angular
+
+
+## run:
+`$ node server.js`
