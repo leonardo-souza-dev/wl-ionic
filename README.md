@@ -4,4 +4,6 @@
 
 
 ## run:
-`$ node server.js`
+```bash
+$ node server.js
+```
