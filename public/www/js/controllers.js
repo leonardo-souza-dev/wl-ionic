@@ -16,5 +16,4 @@ angular.module('starter.controllers', [])
             $scope.searchResults = MainService.searchMovies(term);
         }
     };	
-	
 });

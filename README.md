@@ -1,9 +1,10 @@
 # watchListt ionic
 
+Uma lista de filmes para assistir.
+
 * ionic angular
 
-
-## run:
+## Instalação
 ```bash
 $ node server.js
 ```

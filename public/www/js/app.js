@@ -27,10 +27,6 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 
 .config(function($stateProvider, $urlRouterProvider) {
 	
-	//var appID = 633462590141225;
-	//$cordovaFacebookProvider.browserInit(appID, version);
-	
-	
 	$stateProvider
 	//setup an abstract state for the tabs directive
     .state('tab', {
